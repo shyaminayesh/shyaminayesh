@@ -9,7 +9,10 @@
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/shyaminayesh][github]
-- LinkedIn: [linkedin.com/in/shyaminayesh][LinkedIn]
-- Site: [shyamin.com][Site]
-- E-mail: me@shyamin.com
+- GitHub: [@shyaminayesh](https://github.com/shyaminayesh)
+- LinkedIn: [@shyaminayesh](https://linkedin.com/in/shyaminayesh)
+- Twitter: [@shyaminayesh](https://twitter.com/shyaminayesh)
+- Facebook: [@shyaminayesh](https://facebook.com/shyaminayesh)
+- Telegram: [@shyaminayesh](https://t.me/shyaminayesh)
+- Web: [shyamin.com](https://shyamin.com)
+- Email: me@shyamin.com
