@@ -10,7 +10,7 @@
 ### 📬 Get in Touch
 
 - GitHub: [@shyaminayesh](https://github.com/shyaminayesh)
-- LinkedIn: [@shyaminayesh](https://linkedin.com/in/shyaminayesh)
+- LinkedIn: [@shyamin](https://linkedin.com/in/shyamin)
 - Twitter: [@shyaminayesh](https://twitter.com/shyaminayesh)
 - Facebook: [@shyaminayesh](https://facebook.com/shyaminayesh)
 - Telegram: [@shyaminayesh](https://t.me/shyaminayesh)
